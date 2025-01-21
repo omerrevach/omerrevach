@@ -1,9 +1,12 @@
-### Hi y'all, I'm [Your Name] 👋 Glad to see you here!  
+### Ahalan! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omer-revach-0bb289339/)  
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername?style=social)](https://github.com/omerrevach)
+[![GitHub Followers](https://img.shields.io/github/followers/omerrevach?style=social)](https://github.com/omerrevach)  
+[![GitHub Stars](https://img.shields.io/github/stars/omerrevach?style=social)](https://github.com/omerrevach)
 
 I'm a **passionate DevOps Engineer** enthusiastic about designing robust, scalable, and efficient solutions. I thrive on leveraging cutting-edge tools and best practices to bridge development and operations.
+
+---
 
 ### 🛠 &nbsp;Tech Stack  
 
@@ -26,9 +29,9 @@ I'm a **passionate DevOps Engineer** enthusiastic about designing robust, scalab
 ### ⚙️ &nbsp;GitHub Analytics  
 
 <p align="left">
-<a href="https://github.com/yourusername">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?omerrevach=omerrevach&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?omerrevach=omerrevach&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/omerrevach">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omerrevach&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omerrevach&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
