@@ -1,8 +1,6 @@
 ### Ahalan! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omer-revach-0bb289339/)  
-[![GitHub Followers](https://img.shields.io/github/followers/omerrevach?style=social)](https://github.com/omerrevach)  
-[![GitHub Stars](https://img.shields.io/github/stars/omerrevach?style=social)](https://github.com/omerrevach)
 
 I'm a **passionate DevOps Engineer** enthusiastic about designing robust, scalable, and efficient solutions. I thrive on leveraging cutting-edge tools and best practices to bridge development and operations.
 
@@ -37,3 +35,5 @@ I'm a **passionate DevOps Engineer** enthusiastic about designing robust, scalab
 
 <div align="center">
 </div>
+
+##Check out my project bellow
