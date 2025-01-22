@@ -24,16 +24,4 @@ I'm a **passionate DevOps Engineer** enthusiastic about designing robust, scalab
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics  
-
-<p align="left">
-<a href="https://github.com/omerrevach">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omerrevach&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omerrevach&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-<div align="center">
-</div>
-
-##Check out my project bellow
+Check out my project below and let me know if there are areas I can improve on
