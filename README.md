@@ -2,8 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omer-revach-0bb289339/)  
 
-I'm a **passionate DevOps Engineer** enthusiastic about designing robust, scalable, and efficient solutions. I thrive on leveraging cutting-edge tools and best practices to bridge development and operations.
-
+Hello, I'm Omer! I'm a passionate DevOps Engineer with experience as a network engineer. I love to problem-solve, create scalable and automated solutions to projects, and continuously add creative features.
 ---
 
 ### 🛠 &nbsp;Tech Stack  
