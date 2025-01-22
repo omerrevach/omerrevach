@@ -24,4 +24,4 @@ I'm a **passionate DevOps Engineer** enthusiastic about designing robust, scalab
 
 ---
 
-Check out my project below and let me know if there are areas I can improve on
+Check out my main project ("stockpnl_microservices" & "stockpnl_manifests") below and let me know if there are areas I can improve on
