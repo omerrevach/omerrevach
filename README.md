@@ -23,5 +23,5 @@ Hello, I'm Omer! I'm a passionate DevOps Engineer with experience as a network e
 
 ---
 
-Check out my projects ("[stockpnl_microservices](https://github.com/omerrevach/stockpnl_microservice)" & "[stockpnl_manifests"](https://github.com/omerrevach/stockpnl_manifests)). 
+Check out my projects ([stockpnl_microservices](https://github.com/omerrevach/stockpnl_microservice) & [stockpnl_manifests](https://github.com/omerrevach/stockpnl_manifests)). 
 Feel free to contribute and share your feedback 👋
