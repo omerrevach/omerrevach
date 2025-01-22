@@ -2,7 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omer-revach-0bb289339/)  
 
-Hello, I'm Omer! I'm a passionate DevOps Engineer with experience as a network engineer. I love to problem-solve, create scalable and automated solutions to projects, and continuously add creative features.
+Hello, I'm Omer! I'm a passionate DevOps Engineer with experience as a network engineer. 
+I'm a problem-solver who loves tackling challenges and learning new things on my own.
+
 ---
 
 ### 🛠 &nbsp;Tech Stack  
@@ -23,4 +25,5 @@ Hello, I'm Omer! I'm a passionate DevOps Engineer with experience as a network e
 
 ---
 
-Check out my main project ("stockpnl_microservices" & "stockpnl_manifests") below and let me know if there are areas I can improve on
+Check out my projects [stockpnl_microservices](https://github.com/omerrevach/stockpnl_microservice) & [stockpnl_manifests](https://github.com/omerrevach/stockpnl_manifests). 
+Feel free to contribute and share your feedback 👋
