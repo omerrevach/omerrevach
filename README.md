@@ -25,5 +25,6 @@ I'm a problem-solver who loves tackling challenges and learning new things on my
 
 ---
 
-Check out my projects [stockpnl_microservices](https://github.com/omerrevach/stockpnl_microservice) & [stockpnl_manifests](https://github.com/omerrevach/stockpnl_manifests). 
-Feel free to contribute and share your feedback 👋
+Check out my main project [stockpnl_microservices](https://github.com/omerrevach/stockpnl_microservice) & [stockpnl_manifests](https://github.com/omerrevach/stockpnl_manifests). 
+I am currently working as well on [kubernetes operator](https://github.com/omerrevach/k8s-scheduled-scaler-operator.git)
+Feel free to contribute and share your feedback on both 👋
