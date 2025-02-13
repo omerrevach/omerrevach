@@ -23,19 +23,6 @@ I'm a problem-solver who loves tackling challenges and learning new things on my
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;  
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-05122A?style=flat&logo=argo)&nbsp;
 
----
-🚀 **Check out my main project:**
-- 📈 **[StockPNL Microservices](https://github.com/omerrevach/stockpnl_microservice)** – A microservices-based stock trading web application.
-- 🛠️ **[StockPNL Manifests](https://github.com/omerrevach/stockpnl_manifests)** – Kubernetes manifests for deploying StockPNL services.
-
----
-
-### 🔧 Currently Working On:
-💡 **[Kubernetes Scheduled Scaler Operator](https://github.com/omerrevach/k8s-scheduled-scaler-operator)**  
-A Kubernetes operator that enables **automated, time-based scaling** for deployments.
-
----
-
 ### 🤝 Contributions & Feedback
 I welcome contributions and feedback on all my projects! Feel free to:
 ✔️ Open issues  
