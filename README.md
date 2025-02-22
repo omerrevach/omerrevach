@@ -44,15 +44,14 @@ If you’re interested in **DevOps, microservices, and Kubernetes**, check it ou
 
 <p align="center">
   <a href="https://github.com/omerrevach">
-    <img src="https://github-readme-stats.vercel.app/api?username=omerrevach&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=omerrevach&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </a>
-  <br />
   <a href="https://github.com/omerrevach">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerrevach&theme=tokyonight&hide_border=true&stroke=FFFFFF" alt="GitHub Streak" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omerrevach&theme=tokyonight&hide_border=true&stroke=FFFFFF" alt="GitHub Streak" />
   </a>
-  <br />
+  <br/>
   <a href="https://github.com/omerrevach">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerrevach&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerrevach&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
