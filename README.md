@@ -40,10 +40,22 @@ If you’re interested in **DevOps, microservices, and Kubernetes**, check it ou
 
 ---
 
+## 🚀 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omerrevach&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerrevach&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/omerrevach">
+    <img src="https://github-readme-stats.vercel.app/api?username=omerrevach&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <br />
+  <a href="https://github.com/omerrevach">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerrevach&theme=tokyonight&hide_border=true&stroke=FFFFFF" alt="GitHub Streak" />
+  </a>
+  <br />
+  <a href="https://github.com/omerrevach">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerrevach&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
+
 
 ---
 
