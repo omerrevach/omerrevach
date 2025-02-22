@@ -40,6 +40,13 @@ If you’re interested in **DevOps, microservices, and Kubernetes**, check it ou
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omerrevach&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerrevach&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🤝 Contributions & Feedback
 I welcome contributions and feedback on all my projects! Feel free to:
 ✔️ Open issues  
