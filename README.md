@@ -50,9 +50,6 @@ If you’re interested in **DevOps, microservices, and Kubernetes**, check it ou
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omerrevach&theme=tokyonight&hide_border=true&stroke=FFFFFF" alt="GitHub Streak" />
   </a>
   <br/>
-  <a href="https://github.com/omerrevach">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerrevach&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
 </p>
 
 
