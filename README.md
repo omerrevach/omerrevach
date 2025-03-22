@@ -55,6 +55,8 @@ If you’re interested in **DevOps, microservices, and Kubernetes**, check it ou
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=omerrevach&color=green&style=for-the-badge)
+
 ### 🤝 Contributions & Feedback
 I welcome contributions and feedback on all my projects! Feel free to:
 ✔️ Open issues  
