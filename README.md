@@ -33,7 +33,7 @@ The **StockPNL project** is my primary work, designed as a **scalable, microserv
 
 ### 📂 Repositories:
 🔹 **Microservices** → [StockPNL Microservice](https://github.com/omerrevach/stockpnl_microservice.git)  
-🔹 **Infrastructure** → [StockPNL Infrastructure](https://github.com/omerrevach/stockpnl_infrustructure.git)  
+🔹 **Infrastructure** → [StockPNL Infrastructure](https://github.com/omerrevach/new_stockpnl_infrustructure.git)  
 🔹 **Manifests & Configs** → [StockPNL Kubernetes Manifests](https://github.com/omerrevach/stockpnl_manifests_test.git)  
 
 If you’re interested in **DevOps, microservices, and Kubernetes**, check it out! 🚀
